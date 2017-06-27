@@ -1,0 +1,22 @@
+Canvas v4.5.1
+refined 2D merging
+faster truncation on MS data
+added automatic background subtraction with MS data
+added minimum match factor input for NIST search
+
+Canvas v4.5.3
+updated merge.m, fold.m, pkfind2.m
+
+Canvas v4.5.4
+updated clustermenu.m, polygon.m
+added intersect.m to support polygon self-crossing check
+
+Canvas v4.5.5
+added undo funtionality in polygon building process
+
+Canvas v4.6
+solved issue of slow opening of "reset figure" window on MS data
+list all ions for GCxGC-SIM data in command window 
+auto-save colormap set for data and for system default
+optimized color schemes during comparison of data sets
+support joining a pair of dots to a single dot

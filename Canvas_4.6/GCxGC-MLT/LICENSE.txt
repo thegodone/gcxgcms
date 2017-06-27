@@ -1,0 +1,35 @@
+Please cite the following articles when publishing any results obtained by use
+of this software. 
+
+Nabi, D., Gros, J., Dimitriou-Christidis, P., Arey, J. S., "Mapping 
+environmental partitioning properties of nonpolar complex mixtures by use of
+GCxGC", Environ. Sci. Technol. 2014, vol 48, p 6814-6826.
+
+Arey, J. S., Nelson, R. K., Reddy, C. M., "Disentangling oil weathering
+using GCxGC 1. Chromatogram analysis", Environ. Sci. Technol. 2007, vol 41, p 5738-5746.
+
+ -----------
+ 
+The MIT License (MIT)
+
+Copyright (c) 2016 ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, Environmental Chemistry Modeling Laboratory.
+Authors :  J. Samuel Arey, Deedar Nabi, and Jonas Gros
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE
+

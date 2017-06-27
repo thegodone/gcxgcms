@@ -1,0 +1,11 @@
+pure liquid vapor pressure
+enthalpy of vaporization
+hexadecane-air partition coefficient
+dry octanol-air partition coefficient
+organic carbon-air partition coefficient
+air-water partition coefficient
+pure liquid aqueous solubility
+wet octanol-water partition coefficient
+organic carbon-water partition coefficient
+dissolved organic carbon-water partition coefficient
+bioconcentration factor
